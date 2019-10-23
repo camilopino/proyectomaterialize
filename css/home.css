@@ -1,0 +1,19 @@
+
+.favoritos
+{
+  height: 70px;
+}
+.encabezado
+{
+  background: #F5FBB8;
+}
+section
+{
+  background: #F5FBB8;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+h1
+{
+  font-style: oblique;
+}

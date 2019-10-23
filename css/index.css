@@ -1,0 +1,16 @@
+.social
+{
+  width: 100%;
+  opacity: 0.7;
+}
+.camilo
+{
+  width: 30%;
+}
+.fondo
+{
+  background: url(../img/torre.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
